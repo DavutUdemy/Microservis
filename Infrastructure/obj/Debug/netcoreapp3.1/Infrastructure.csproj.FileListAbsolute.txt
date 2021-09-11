@@ -1,0 +1,10 @@
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/macbookair/RiderProjects/Microservis/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PaymentService.Api
+build_property.ProjectDir = /Users/macbookair/RiderProjects/Microservis/PaymentService.Api/

@@ -1,0 +1,15 @@
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Repository.deps.json
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Repository.dll
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Repository.pdb
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Core.dll
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/macbookair/RiderProjects/Microservis/Repository/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.dll
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.pdb
+/Users/macbookair/RiderProjects/Microservis/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CopyComplete

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2518E242-7DD0-4E3A-8AA3-24B8185D1755}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Services.BasketService.BasketService.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasketService.API/Startup.cs">
+    <Files>
+      <File FileName="BasketService.API/Core/Middleware/ServiceCollectionExtensions.cs" Line="1" Column="1" />
+      <File FileName="BasketService.API/Startup.cs" Line="55" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservis" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="BuildingBlocks" expanded="True">
+                <Node name="EventBus" expanded="True" />
+              </Node>
+              <Node name="Docker" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BasketService" expanded="True">
+                  <Node name="BasketService.API" expanded="True" selected="True">
+                    <Node name="Core" expanded="True">
+                      <Node name="Middleware" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

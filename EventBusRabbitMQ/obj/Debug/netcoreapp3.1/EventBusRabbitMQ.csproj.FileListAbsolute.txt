@@ -1,0 +1,13 @@
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/bin/Debug/netcoreapp3.1/EventBusRabbitMQ.deps.json
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/bin/Debug/netcoreapp3.1/EventBusRabbitMQ.dll
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/bin/Debug/netcoreapp3.1/EventBusRabbitMQ.pdb
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/bin/Debug/netcoreapp3.1/EventBus.dll
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/bin/Debug/netcoreapp3.1/EventBus.pdb
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.dll
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.pdb
+/Users/macbookair/RiderProjects/Microservis/EventBusRabbitMQ/obj/Debug/netcoreapp3.1/EventBusRabbitMQ.csproj.CopyComplete

@@ -1,0 +1,10 @@
+/Users/macbookair/RiderProjects/Microservis/EventBus/bin/Debug/netcoreapp3.1/EventBus.deps.json
+/Users/macbookair/RiderProjects/Microservis/EventBus/bin/Debug/netcoreapp3.1/EventBus.dll
+/Users/macbookair/RiderProjects/Microservis/EventBus/bin/Debug/netcoreapp3.1/EventBus.pdb
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.dll
+/Users/macbookair/RiderProjects/Microservis/EventBus/obj/Debug/netcoreapp3.1/EventBus.pdb
